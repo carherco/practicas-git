@@ -8,6 +8,7 @@ Esto es fácilmente comprobable de la siguiente manera:
 
 ## Ejemplo
 
+
 Clase padre: 
 
 ```php
