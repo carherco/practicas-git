@@ -4,7 +4,7 @@
 
 Dado el siguiente interfaz de item IItem:
 
-```php
+```php 
 <?php
 interface IItem
 {
