@@ -9,7 +9,7 @@ Traducción: deben poder extenderse sin modificarlas.
 ## Ejemplos 
 
 ### Ejemplo 1
-
+hola
 ```php
 class LoginModule {
     
@@ -27,18 +27,13 @@ class LoginModule {
 
     public function authenticateGmailUser($user) {
         // ...
-    }
-}
-```
-
-¿Y si queremos añadir más tipos de usuario con sus métodos de autenticación?
 
 Solución
 
 1) Aplicar principio SRP:
 
 ```php
-interface AuthenticateUserInterface {
+interface AudfdfthenticateUserInterface {
     public function authenticate($user);
 }
 
