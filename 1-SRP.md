@@ -9,7 +9,7 @@ Un ejemplo:
 ```php
 class Employee
 {
-    public getName()
+    public getNameCompleto()
     public setName()
     public save()
     public calculatePay()
