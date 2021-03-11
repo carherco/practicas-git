@@ -15,11 +15,12 @@ class Employee
     public calculatePay()
     public reportHours()
 }
+
 ```
 
-## ¿Cómo detectar si estamos violando el Principio de Responsabilidad Única?
+## ¿Cómo detectar si estamos violando el Principio de Responsabilidad Única hola amigo git?
 
-La respuesta a esta pregunta es bastante subjetiva. **Sin necesidad de obsesionarnos** con ello, podemos detectar situaciones en las que una clase podría dividirse en varias:
+
 
 ### En una misma clase están involucradas dos capas de la arquitectura
 
@@ -29,9 +30,6 @@ Esta puede ser difícil de ver sin experiencia previa. En toda arquitectura, por
 - Objetos que se guardan ellos mismos
 
 
-### El número de métodos públicos
-
-Si una clase hace muchas cosas, lo más probable es que tenga muchos métodos públicos, y que tengan poco que ver entre ellos. Detecta cómo puedes agruparlos para separarlos en distintas clases. Algunos de los puntos siguientes te pueden ayudar.
 
 ### Los métodos que usan cada uno de los campos de esa clase
 
