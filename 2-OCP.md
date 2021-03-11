@@ -6,7 +6,7 @@ Las clases que usas deberían estar:
 
 Traducción: deben poder extenderse sin modificarlas.
 
-## Ejemplos
+## Ejemplos 
 
 ### Ejemplo 1
 
