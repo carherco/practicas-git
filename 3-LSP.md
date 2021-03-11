@@ -1,6 +1,6 @@
 # Prinicipio de sustitución de Liskov
 
-"Child classes should never break the parent class' type definitions."
+"Child classes should never break the parent class' type definitions." 
 
 Esto es fácilmente comprobable de la siguiente manera:
 
