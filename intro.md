@@ -1,4 +1,5 @@
 # Principios SOLID
+Hola soy Juan
 
 Los principios SOLID no son técnicas ni metodologías, son PRINCIPIOS, buenas prácticas, consejos...
 
