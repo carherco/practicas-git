@@ -19,6 +19,7 @@ interface IItem
 }
 ?>
 ```
+#archivomodificado
 
 1) Programar una clase Book y una clase Shirt que implementen el interfaz
 2) Crear un snippet de código que cree un nuevo libro y otro que cree una nueva camiseta aplicando todos los métodos del interfaz que sean aplicables a cada objeto.
