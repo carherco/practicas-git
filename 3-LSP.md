@@ -2,9 +2,9 @@
 
 "Child classes should never break the parent class' type definitions."
 
-Esto es fácilmente comprobable de la siguiente manera:
 
-"Subtypes must be substitutable for their base types."
+
+"Subtypes must bedsfgsgsd substitutable for their base types."
 
 ## Ejemplo
 
